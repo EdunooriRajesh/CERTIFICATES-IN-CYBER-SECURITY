@@ -5,7 +5,7 @@ Here, I have uploaded some of the certifications I have achieved in my learning 
 
 ## 🛡️ Cybersecurity Certifications
 - [Certified Ethical Hacker (CEH)](./ECC-CEH-Certificate.pdf)
-- [Certified in Cybersecurity (CC)](./CC-Certificate.pdf)
+- [Certified in Cybersecurity (CC)](./ISC2.jpg)
 - [Security Operations Center (SOC) Analyst](./SOC-Analyst-Certificate.pdf)
 
 ## 🎓 Other Certifications
