@@ -4,7 +4,7 @@ Welcome to my certificates repository!
 Here, I have uploaded some of the certifications I have achieved in my learning journey.
 
 ## 🛡️ Cybersecurity Certifications
-- [Certified Ethical Hacker (CEH)](./CEH-Certificate.pdf)
+- [Certified Ethical Hacker (CEH)](./ECC-CEH-Certificate.pdf)
 - [Certified in Cybersecurity (CC)](./CC-Certificate.pdf)
 - [Security Operations Center (SOC) Analyst](./SOC-Analyst-Certificate.pdf)
 
